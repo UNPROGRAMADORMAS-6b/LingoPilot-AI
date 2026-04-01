@@ -1,0 +1,5 @@
+Nombre: Jordan
+Perfil: Programador Full Stack Junior.
+Habilidades: Python, React, FastAPI, Visión Artificial.
+Proyecto Actual: LingoPilot AI (Copiloto de entrevistas).
+Meta: Conseguir mi primera oportunidad laboral demostrando proactividad.
